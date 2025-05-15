@@ -8,6 +8,7 @@ schiffe = [
     {"name": "Titanic", "typ": "Passagierschiff", "baujahr": 1912},
     {"name": "Bismarck", "typ": "Schlachtschiff", "baujahr": 1939},
     {"name": "Queen Mary 2", "typ": "Kreuzfahrtschiff", "baujahr": 2003}
+    {"name": "Babuschka 8", "typ": "Kreuzfahrtschiff", "baujahr": 2011}
 ]
 
 @app.route('/')
